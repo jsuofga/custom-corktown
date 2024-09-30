@@ -1,0 +1,1 @@
+import o from"./Main-2b112033.js";import{M as r,N as t}from"./index-ac17ed97.js";import"./VContainer-30abdced.js";import"./VRow-c4bc6d28.js";import"./VImg-38705789.js";import"./transition-9a3b17f2.js";const f={__name:"Home",setup(e){return(m,p)=>(r(),t(o))}};export{f as default};
